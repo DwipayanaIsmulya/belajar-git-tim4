@@ -1,4 +1,4 @@
-import { Button, Card } from "react-bootstrap/Button";
+import { Button, Card } from "react-bootstrap";
 
 const Dwi = () => {
   return (
