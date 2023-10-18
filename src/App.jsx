@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/" element={<Dwi />} />
+        <Route path="/dwi" element={<Dwi />} />
         <Route path="/gun" element={<Guntur />} />
         <Route path="/arin" element={<Arin />}></Route>
       </Routes>
